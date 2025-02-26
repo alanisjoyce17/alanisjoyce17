@@ -4,7 +4,7 @@ I'm a 24-year-old **QA Analyst** passionate about technology, quality assurance,
 
 ## About Me
 - 🎓 **Student:** Systems Analysis and Development
-- 💼 **Current Role:** Junior QA Analyst
+- 💼 **Current Role:**QA Analyst
 - 🌱 **Learning:** Software testing, automation, development, and quality assurance best practices.
 - 💡 **Interests:** Exploring different testing strategies, improving software quality, and learning new technologies.
 
