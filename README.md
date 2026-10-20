@@ -1,11 +1,14 @@
-# Hi, I'm Alanis! 👋
+# Olá, eu sou a Alanis! 
 
-I'm a **QA Analyst** passionate about technology, quality assurance, and continuous improvement. Currently, I’m also a student of **Systems Analysis and Development**, eager to expand my knowledge and grow in the software development industry.
+Sou **Analista de QA apaixonada por tecnologia, qualidade de software e melhoria contínua**. Tenho experiência em testes manuais e automatizados, validação de APIs e desenvolvimento de estratégias de teste que contribuem para a entrega de softwares mais confiáveis e eficientes.
 
-## About Me
-- 🎓 **Student:** Systems Analysis and Development
-- 💼 **Current Role:**QA Analyst
-- 🌱 **Learning:** Software testing, automation, development, and quality assurance best practices.
-- 💡 **Interests:** Exploring different testing strategies, improving software quality, and learning new technologies.
+##  Sobre mim
 
-I’m always open to collaboration and sharing knowledge with the tech community. Let’s connect and build great things together!
+💼 **Atuação:** Analista de Quality Assurance (QA)
+🧪 **Testes de software:** Funcionais, regressivos, exploratórios, de integração e de API.
+🤖 **Automação:** Experiência com Cypress, Playwright e Robot Framework.
+🛠️ **Ferramentas e tecnologias:** Postman, SQL, Git, GitHub Actions, Jira e Xray.
+🌱 **Aprendizado contínuo:** Sempre buscando aprimorar minhas habilidades em automação, boas práticas de QA, integração contínua e novas tecnologias.
+💡 **Propósito:** Contribuir para a construção de produtos de qualidade, identificar oportunidades de melhoria e fortalecer a cultura de qualidade ao longo de todo o ciclo de desenvolvimento de software.
+
+Acredito que a qualidade vai além de encontrar defeitos: envolve compreender as necessidades do negócio, antecipar riscos e colaborar com o time para entregar soluções que realmente façam a diferença.
