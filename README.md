@@ -1,6 +1,6 @@
 # Hi, I'm Alanis! 👋
 
-I'm a 26-year-old **QA Analyst** passionate about technology, quality assurance, and continuous improvement. Currently, I’m also a student of **Systems Analysis and Development**, eager to expand my knowledge and grow in the software development industry.
+I'm a **QA Analyst** passionate about technology, quality assurance, and continuous improvement. Currently, I’m also a student of **Systems Analysis and Development**, eager to expand my knowledge and grow in the software development industry.
 
 ## About Me
 - 🎓 **Student:** Systems Analysis and Development
