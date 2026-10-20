@@ -1,6 +1,6 @@
 # Olá, eu sou a Alanis! 
 
-Sou **Analista de QA apaixonada por tecnologia, qualidade de software e melhoria contínua**. Tenho experiência em testes manuais e automatizados, validação de APIs e desenvolvimento de estratégias de teste que contribuem para a entrega de softwares mais confiáveis e eficientes.
+Sou Analista de QA com experiência em qualidade de software e melhoria contínua. Atuo com testes manuais e automatizados, validação de APIs e desenvolvimento de estratégias de teste que contribuem para a entrega de softwares mais confiáveis e eficientes.
 
 ##  Sobre mim
 
